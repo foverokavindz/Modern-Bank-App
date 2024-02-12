@@ -25,7 +25,7 @@ const Billing = () => {
           using Lorem Ipsum is that it has a more-or-less normal
         </p>
 
-        <div className=" flex flex-row flex-warp sm:mt-10 mt-6">
+        <div className="flex flex-row flex-warp sm:mt-10 mt-6">
           <img
             src={apple}
             alt="apple"

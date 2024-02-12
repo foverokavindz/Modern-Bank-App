@@ -4,6 +4,7 @@ import { navLinks } from '../constants/index';
 
 const NavBar = () => {
   const [toggle, setToggle] = useState(false);
+
   return (
     <nav className="w-full flex py-6 justify-between items-center navbar">
       <img src={logo} alt="hoobank" className="w-[124px] h-[32px]" />
@@ -23,6 +24,7 @@ const NavBar = () => {
         })}
       </ul>
 
+      {/* mobile toggle menu icon */}
       <div className="sm:hidden flex flex-1 justify-end items-center">
         <img
           src={toggle ? close : menu}
@@ -31,6 +33,7 @@ const NavBar = () => {
           onClick={() => setToggle((prev) => !prev)}
         />
 
+        {/* floating menu */}
         <div
           className={`${
             toggle ? 'flex ' : 'hidden'
