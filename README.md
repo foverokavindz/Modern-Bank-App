@@ -1,3 +1,5 @@
+![Project Image](https://github.com/foverokavindz/Modern-Bank-App/blob/main/bank_modern_app/Image.png?raw=true)
+
 # Project Name
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -35,4 +37,4 @@ This project is licensed under the terms of the MIT license. See the [LICENSE](L
 - GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
 - Email: [youremail@example.com](mailto:youremail@example.com)
 
-![Project Image](https://github.com/foverokavindz/Modern-Bank-App/blob/main/bank_modern_app/Image.png?raw=true)
+
